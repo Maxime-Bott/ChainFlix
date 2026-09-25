@@ -1,2 +1,2 @@
-# ScoreFlix
+# ChainFlix
 A simple film catalog
